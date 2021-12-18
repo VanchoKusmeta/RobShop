@@ -5,5 +5,6 @@
 
 <p>In my team there are:</p>
 <ul>
+<li>Velina V.</li>
 <li>Ivan Dimov</li>
 </ul>
